@@ -867,6 +867,7 @@ text-align: left;
     border-radius: 30px;
     margin-left: 17px;
     margin-top: 5px;
+    cursor: pointer;
 }
 
 .text-btn{
