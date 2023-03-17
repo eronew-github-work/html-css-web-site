@@ -126,7 +126,7 @@ color: #fff;
     font-size: 20px;
     margin-left: 110px;
     color: #fff;
-    font-weight: 700;
+    line-height: 30px;
      
 
 }
@@ -636,6 +636,7 @@ footer{
     color: #737373;
     line-height: 30px;
     position: relative;
+    
 
 }
 
@@ -649,6 +650,7 @@ footer{
     margin-top: 100px;
     margin-left: 500px;
     line-height: 24px;
+    
 
 }
 
